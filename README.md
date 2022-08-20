@@ -1,4 +1,7 @@
 # kodluyoruzilkrepo
+
+patika.dev profilim: https://app.patika.dev/birgulyuksel
+
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![İlk repo resmim](https://imgyukle.com/f/2022/08/20/nrvlQS.png)
